@@ -1,6 +1,6 @@
 # Snake for Windows
 
-Snake in Python with pygame, packaged as a single `Snake.exe`. It plays alone or with up to four people on the same Wi-Fi, and it is compatible with the [macOS version](https://github.com/Daniel-the-Boehm/snake-mac): a Windows PC can host a game that Mac players join, and the other way round.
+Snake in Python with pygame, packaged as a single `Snake.exe`. It plays alone or with up to four people on the same Wi-Fi, and it is compatible with the [macOS version](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Mac): a Windows PC can host a game that Mac players join, and the other way round.
 
 The game is one file, `snake.py`. It also runs on Linux and macOS when started with Python.
 
