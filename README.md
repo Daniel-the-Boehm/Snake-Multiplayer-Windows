@@ -59,9 +59,10 @@ One player hosts, the others join. All devices have to be on the same network, a
 
 The game uses TCP port 55055 for the match and UDP port 55056 to find hosts. If discovery fails, enter the host's IP address by hand in the join screen.
 
-## Saved data
+## Data and Credits
 
 Everything is stored in `%APPDATA%\Snake`:
+Original version by Paul Hemetsberger; revised and expanded by [Daniel-the-Boehm](https://github.com/Daniel-the-Boehm). 
 
 | File | Content |
 | --- | --- |
