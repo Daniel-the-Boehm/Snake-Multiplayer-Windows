@@ -61,8 +61,8 @@ The game uses TCP port 55055 for the match and UDP port 55056 to find hosts. If 
 
 ## Data and Credits
 
+Original version by Paul Hemetsberger; revised and expanded by [Daniel-the-Boehm](https://github.com/Daniel-the-Boehm). <br>
 Everything is stored in `%APPDATA%\Snake`:
-Original version by Paul Hemetsberger; revised and expanded by [Daniel-the-Boehm](https://github.com/Daniel-the-Boehm). 
 
 | File | Content |
 | --- | --- |
